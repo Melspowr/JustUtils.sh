@@ -4,4 +4,4 @@ This will be an script of an idea I had, to compress files with 7z and convert t
 
 I plan to launch it for UNIX based platforms, if eventually is useful and interest is done for windows I might consider it. 
 
-Honestly, I plan to open a donation panel somewhere because I want to earn the sufficient money to buy a Librem5.
+__I don't think I'm going to start it early__. ;-;
